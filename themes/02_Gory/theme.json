@@ -1,0 +1,30 @@
+{
+  "colors": [
+    "#030614",
+    "#0B1A3A",
+    "#2A3F6E"
+  ],
+  "glow": [
+    "#3B82F6",
+    "#6366F1",
+    "#0EA5E9"
+  ],
+  "dim": 5,
+  "wallpaper": "wallpaper.jpg",
+  "name": "Mountains at night",
+  "names": {
+    "en": "Mountains at night",
+    "ru": "Горы ночью",
+    "uz": "Tungi togʻlar",
+    "kk": "Түнгі таулар",
+    "uk": "Гори вночі",
+    "tr": "Gece dağları",
+    "de": "Berge bei Nacht",
+    "fr": "Montagnes la nuit",
+    "es": "Montañas de noche",
+    "zh-CN": "夜山",
+    "ja": "夜の山",
+    "ko": "밤의 산",
+    "ar": "جبال في الليل"
+  }
+}

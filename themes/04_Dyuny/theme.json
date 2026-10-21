@@ -1,0 +1,30 @@
+{
+  "colors": [
+    "#3B2A6B",
+    "#C46A6A",
+    "#F3B07A"
+  ],
+  "glow": [
+    "#F59E0B",
+    "#F97316",
+    "#EC4899"
+  ],
+  "dim": 15,
+  "wallpaper": "wallpaper.jpg",
+  "name": "Dunes",
+  "names": {
+    "en": "Dunes",
+    "ru": "Дюны",
+    "uz": "Barxanlar",
+    "kk": "Құмдар",
+    "uk": "Дюни",
+    "tr": "Kum tepeleri",
+    "de": "Dünen",
+    "fr": "Dunes",
+    "es": "Dunas",
+    "zh-CN": "沙丘",
+    "ja": "砂丘",
+    "ko": "사구",
+    "ar": "كثبان"
+  }
+}

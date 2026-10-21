@@ -1,0 +1,30 @@
+{
+  "colors": [
+    "#060A1A",
+    "#0B1230",
+    "#060A1A"
+  ],
+  "glow": [
+    "#2563EB",
+    "#7C3AED",
+    "#0EA5E9"
+  ],
+  "dim": 0,
+  "wallpaper": "wallpaper.jpg",
+  "name": "Depth",
+  "names": {
+    "en": "Depth",
+    "ru": "Глубина",
+    "uz": "Chuqurlik",
+    "kk": "Тереңдік",
+    "uk": "Глибина",
+    "tr": "Derinlik",
+    "de": "Tiefe",
+    "fr": "Profondeur",
+    "es": "Profundidad",
+    "zh-CN": "深邃",
+    "ja": "深み",
+    "ko": "깊이",
+    "ar": "عمق"
+  }
+}
