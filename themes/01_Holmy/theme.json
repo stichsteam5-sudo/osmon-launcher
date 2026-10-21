@@ -1,0 +1,30 @@
+{
+  "colors": [
+    "#2B1446",
+    "#7A2E5C",
+    "#F0805A"
+  ],
+  "glow": [
+    "#F97316",
+    "#EC4899",
+    "#A855F7"
+  ],
+  "dim": 10,
+  "wallpaper": "wallpaper.jpg",
+  "name": "Sunset hills",
+  "names": {
+    "en": "Sunset hills",
+    "ru": "Холмы на закате",
+    "uz": "Shafaqdagi tepaliklar",
+    "kk": "Күн батқандағы төбелер",
+    "uk": "Пагорби на заході сонця",
+    "tr": "Gün batımında tepeler",
+    "de": "Hügel im Abendrot",
+    "fr": "Collines au couchant",
+    "es": "Colinas al atardecer",
+    "zh-CN": "日落山丘",
+    "ja": "夕暮れの丘",
+    "ko": "노을 언덕",
+    "ar": "تلال الغروب"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "colors": [
+    "#030614",
+    "#0B1A3A",
+    "#2A3F6E"
+  ],
+  "glow": [
+    "#3B82F6",
+    "#8B5CF6",
+    "#14B8A6"
+  ],
+  "dim": 5,
+  "slideshow": true,
+  "name": "Night mountains · slideshow",
+  "names": {
+    "en": "Night mountains · slideshow",
+    "ru": "Ночные горы · слайдшоу",
+    "uz": "Tungi togʻlar · slayd-shou",
+    "kk": "Түнгі таулар · слайд-шоу",
+    "uk": "Нічні гори · слайдшоу",
+    "tr": "Gece dağları · slayt",
+    "de": "Nachtberge · Diashow",
+    "fr": "Montagnes nocturnes · diaporama",
+    "es": "Montañas nocturnas · presentación",
+    "zh-CN": "夜山 · 幻灯片",
+    "ja": "夜の山・スライドショー",
+    "ko": "밤의 산 · 슬라이드쇼",
+    "ar": "جبال ليلية · عرض شرائح"
+  }
+}

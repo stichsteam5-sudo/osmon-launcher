@@ -1,0 +1,30 @@
+{
+  "colors": [
+    "#020812",
+    "#06172A",
+    "#0A2236"
+  ],
+  "glow": [
+    "#10B981",
+    "#22D3EE",
+    "#8B5CF6"
+  ],
+  "dim": 5,
+  "wallpaper": "wallpaper.jpg",
+  "name": "Aurora night",
+  "names": {
+    "en": "Aurora night",
+    "ru": "Сияние",
+    "uz": "Qutb shafagʻi kechasi",
+    "kk": "Шұғыла түні",
+    "uk": "Сяйво",
+    "tr": "Kutup ışığı gecesi",
+    "de": "Polarlichtnacht",
+    "fr": "Nuit boréale",
+    "es": "Noche de aurora",
+    "zh-CN": "极光之夜",
+    "ja": "オーロラの夜",
+    "ko": "오로라의 밤",
+    "ar": "ليلة الشفق"
+  }
+}
